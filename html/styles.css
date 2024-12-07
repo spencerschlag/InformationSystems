@@ -1,0 +1,46 @@
+/* General Page Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(214, 218, 249);
+}
+
+/* Navbar Styles */
+.navbar {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+    font-style: italic;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* Main Content Styles */
+.main-content {
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    font-family: 'Georgia', serif;
+    color: #2a9d8f;
+}
+
+.content-image {
+    width: 100%;
+    max-width: 400px;
+    display: block;
+    margin: 10px auto;
+}
+
+/* Div Box Styles */
+.tableau-embed {
+    border: 2px solid #264653;
+    padding: 10px;
+    background-color: #e9c46a;
+    margin: 20px 0;
+}
